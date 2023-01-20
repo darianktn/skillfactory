@@ -1,3 +1,13 @@
-/* попробовать задатьт ширины изобр через паддинги
-поискать фикс ширины и задать мин
-непонятки с текстом */
+@media (max-width: 1300px) {
+    .hero__title {
+        font-size: 40px;
+    }
+
+    .hero__text {
+        font-size: 20px;
+    }
+
+    .benefits__title {
+        font-size: 36px;
+    }
+}
